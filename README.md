@@ -1,2 +1,2 @@
-# AtomBot
-The little bot that sits in my balls
+#AtomBot
+The simple bot to give you the beggar role
